@@ -7,4 +7,4 @@ In summary, as we grow older, throughout a lifetime, we go through this kind of 
 
 This is what Dr. WIlliam H. Wolberg was observing and put together this dataset.
 
-#Can we predict whether a cell is Malignant or Benign?
+**Can we predict whether a cell is Malignant or Benign?**
